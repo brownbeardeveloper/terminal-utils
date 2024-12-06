@@ -4,4 +4,4 @@
     Place this file in your home directory.
     Open the terminal and start Python.
     Import the file using import u.
-    Use the methods in the file to fetch the necessary information.
+    Call the methods in the file to fetch the necessary information.
